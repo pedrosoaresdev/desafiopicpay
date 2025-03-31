@@ -2,13 +2,12 @@
 Este repositório contém a solução para o desafio técnico proposto pelo PicPay para a posição de desenvolvedor back-end.
 
 ## Tecnologias Utilizadas
-
-- (https://spring.io/projects/spring-boot)
-- (https://img.shields.io/badge/Spring%20Data%20JPA-greendark)
-- (https://img.shields.io/badge/Spring%20Security-white)
-- (https://img.shields.io/badge/H2-Database-blue)
-- (https://img.shields.io/badge/Docker-blue)
-- (https://img.shields.io/badge/Swagger-purple)
+Spring Boot​
+Spring Data JPA​
+Spring Security​
+H2 Database​
+Docker​
+Swagger
 
 ## Funcionalidades
 
