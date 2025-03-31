@@ -2,12 +2,7 @@
 Este repositório contém a solução para o desafio técnico proposto pelo PicPay para a posição de desenvolvedor back-end.
 
 ## Tecnologias Utilizadas
-Spring Boot​
-Spring Data JPA​
-Spring Security​
-H2 Database​
-Docker​
-Swagger
+Spring Boot​ | Spring Data JPA​ | Spring Security​ | H2 Database​ | Docker​ | Swagger
 
 ## Funcionalidades
 
