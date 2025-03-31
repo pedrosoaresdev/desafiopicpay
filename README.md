@@ -3,12 +3,12 @@ Este repositório contém a solução para o desafio técnico proposto pelo PicP
 
 ## Tecnologias Utilizadas
 
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-greendark)
-- [Spring Security](https://img.shields.io/badge/Spring%20Security-white)
-- [H2 Database](https://img.shields.io/badge/H2-Database-blue)
-- [Docker](https://img.shields.io/badge/Docker-blue)
-- [Swagger](https://img.shields.io/badge/Swagger-purple)
+- (https://spring.io/projects/spring-boot)
+- (https://img.shields.io/badge/Spring%20Data%20JPA-greendark)
+- (https://img.shields.io/badge/Spring%20Security-white)
+- (https://img.shields.io/badge/H2-Database-blue)
+- (https://img.shields.io/badge/Docker-blue)
+- (https://img.shields.io/badge/Swagger-purple)
 
 ## Funcionalidades
 
